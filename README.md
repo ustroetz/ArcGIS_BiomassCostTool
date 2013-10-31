@@ -1,4 +1,4 @@
-ArcGIS_BiomassCostTool
+ArcGIS Biomass Cost Analyst Tool
 ======================
 
 The Biomass Cost Analyst Tool estimates a price per ton of woody biomass for each inventory stand. It takes into account the stumpage price for each individual stratum, the harvest costs, the reforestation costs, and the transportation costs to a determined location.
