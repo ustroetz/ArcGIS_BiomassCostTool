@@ -15,5 +15,5 @@ It requires several input data:
 * a point that determines the destination to where the biomass shall be transported to
 * polygons, that cover operable areas, points that determine the road access to the areas, as well as the distance from these points to the destination (this is optinal)
 
-The tool can be added to the ArcToolbox in ArcMap 10, or in ArcCatalog 10, and requires an ArcInfo License. It was created with the ModelBuilder application in ArcGIS, and with Python scripts, that were integrated into the model.
+The tool can be added to the ArcToolbox in ArcMap 10.0, or in ArcCatalog 10.0, and requires an ArcInfo License. It was created with the ModelBuilder application in ArcGIS, and with Python scripts, that were integrated into the model.
 
